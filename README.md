@@ -9,5 +9,5 @@ My name is Adrian. I'm currently a first-year studying computer science at the U
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/agavram/agavram/main/2022-01-20T04_34_06.849Z.png" width="70%">
+<img src="https://raw.githubusercontent.com/agavram/agavram/main/twitter-screenshot.png" alt="twitter screenshot" width="70%">
 </p>
